@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"FoxBattle","characterIndex":0,"characterName":"FoxWalk","classId":7,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"FoxFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sammy","nickname":"Fox","note":"","profile":""},
+{"id":2,"battlerName":"EngiBattle","characterIndex":0,"characterName":"EngiWalk","classId":9,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"EngiFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marisa","nickname":"Engi","note":"","profile":""},
+{"id":3,"battlerName":"EchoBattle","characterIndex":0,"characterName":"EchoWalk","classId":5,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"EchoFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marcus","nickname":"Echo","note":"","profile":""},
+{"id":4,"battlerName":"MedicBattle","characterIndex":0,"characterName":"MedicWalk","classId":8,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"MedicFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Medic","nickname":"Medic","note":"","profile":""},
+{"id":5,"battlerName":"GunnerBattle","characterIndex":0,"characterName":"GunnerWalk","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"GunnerFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Willy D","nickname":"Gunner","note":"","profile":""}
+]
