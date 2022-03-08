@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"OverWorld","order":1,"parentId":0,"scrollX":3939,"scrollY":3875},
 {"id":3,"expanded":true,"name":"Nomad Camp","order":2,"parentId":2,"scrollX":1109,"scrollY":1475},
 {"id":4,"expanded":false,"name":"House 1","order":4,"parentId":3,"scrollX":819,"scrollY":453},
-{"id":5,"expanded":false,"name":"Mansion","order":3,"parentId":3,"scrollX":1081.3333333333333,"scrollY":676},
+{"id":5,"expanded":false,"name":"Mansion","order":3,"parentId":3,"scrollX":1157,"scrollY":655},
 {"id":6,"expanded":true,"name":"Start Map","order":6,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":7,"expanded":false,"name":"Tutorial Map","order":7,"parentId":6,"scrollX":1081.3333333333333,"scrollY":977.3333333333334}
+{"id":7,"expanded":false,"name":"Tutorial Map","order":7,"parentId":6,"scrollX":1058,"scrollY":995}
 ]
